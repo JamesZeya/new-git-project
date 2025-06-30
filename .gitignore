@@ -1,0 +1,15 @@
+# Ignore temporary or system files
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# Ignore Word documents
+*.docx
+
+# Node.js projects (if you ever use them)
+node_modules/
+.env
+
+# VS Code folder
+.vscode/
